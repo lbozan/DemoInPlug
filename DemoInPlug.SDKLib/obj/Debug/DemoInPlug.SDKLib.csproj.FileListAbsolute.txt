@@ -1,0 +1,5 @@
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.SDKLib\bin\Debug\DemoInPlug.SDKLib.dll
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.SDKLib\bin\Debug\DemoInPlug.SDKLib.pdb
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.SDKLib\obj\Debug\DemoInPlug.SDKLib.csprojResolveAssemblyReference.cache
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.SDKLib\obj\Debug\DemoInPlug.SDKLib.dll
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.SDKLib\obj\Debug\DemoInPlug.SDKLib.pdb

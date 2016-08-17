@@ -1,0 +1,7 @@
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\bin\Debug\DemoInPlug.Buyuk.dll
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\bin\Debug\DemoInPlug.Buyuk.pdb
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\bin\Debug\DemoInPlug.SDKLib.dll
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\bin\Debug\DemoInPlug.SDKLib.pdb
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\obj\Debug\DemoInPlug.Buyuk.csprojResolveAssemblyReference.cache
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\obj\Debug\DemoInPlug.Buyuk.dll
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.Buyuk\obj\Debug\DemoInPlug.Buyuk.pdb

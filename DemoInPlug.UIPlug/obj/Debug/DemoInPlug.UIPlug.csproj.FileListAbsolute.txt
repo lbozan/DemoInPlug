@@ -1,0 +1,11 @@
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\bin\Debug\DemoInPlug.UIPlug.exe.config
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\obj\Debug\DemoInPlug.UIPlug.csprojResolveAssemblyReference.cache
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\obj\Debug\DemoInPlug.UIPlug.Form1.resources
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\obj\Debug\DemoInPlug.UIPlug.Properties.Resources.resources
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\obj\Debug\DemoInPlug.UIPlug.csproj.GenerateResource.Cache
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\bin\Debug\DemoInPlug.UIPlug.exe
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\bin\Debug\DemoInPlug.UIPlug.pdb
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\bin\Debug\DemoInPlug.SDKLib.dll
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\bin\Debug\DemoInPlug.SDKLib.pdb
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\obj\Debug\DemoInPlug.UIPlug.exe
+c:\users\lbozan\documents\visual studio 2013\Projects\DemoInPlug\DemoInPlug.UIPlug\obj\Debug\DemoInPlug.UIPlug.pdb
